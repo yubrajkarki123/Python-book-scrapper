@@ -1,3 +1,16 @@
+# go to git bash
+# git config --global user.name "Yubraj Karki"
+# git config -- global user.email "ykarki519@gmail.com"
+
+# git init
+# git status => if you want to change what are the status of files
+# git diff => if you want to check what are the changes
+# git add .
+# git commit -m "Your message"
+# copy paste git code from git hub
+
+
+
 import json
 import requests
 from bs4 import BeautifulSoup
